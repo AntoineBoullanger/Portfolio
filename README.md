@@ -176,7 +176,7 @@ avec un éditeur de code tel que Visual Studio Code.
 https://github.com/AntoineBoullanger
 
 **LinkedIn :**
-https://www.linkedin.com/in/antoine-boullanger-29340338b/
+https://www.linkedin.com/in/antoine-boullanger/
 
 **E-mail :**
 antoine.boullanger@free.fr
